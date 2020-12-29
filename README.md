@@ -1,5 +1,5 @@
 # go-slackbot
-Boiler plate for a golang slack bot via slack slash commands using apigateway and lambda
+Template for a golang slack bot via slack slash commands using apigateway and lambda
 
 ## Overview
 ### Handler function
@@ -48,4 +48,4 @@ $ make deploy
 ```
 
 4. Configure your slack slash command request URL using the deployment output. Remember to append the `/slackbot` path
-![screenshot](https://imgur.com/7jMV0Qq)
+![screenshot](https://i.imgur.com/7jMV0Qq.png)
